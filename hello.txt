@@ -1,3 +1,5 @@
 hello dunia
 
 commit 1 tes squash
+
+commit 2 tes squash
